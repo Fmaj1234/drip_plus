@@ -1,16 +1,7 @@
+# 🔨🛠️🔨🛠️🔨🛠️🔨🛠️ UNDER CONSTRUCTION 🔨🛠️🔨🛠️🔨🛠️🔨🛠️ 
+
 # drip_plus
 
-A new Flutter project.
+A preview of the app
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/Fmaj1234/drip_plus/assets/49940296/76f1159d-164c-4aaa-aab4-96a51ed42f14
